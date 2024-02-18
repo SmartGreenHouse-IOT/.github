@@ -24,11 +24,10 @@ O projeto Smart Green House é uma plataforma de automação e monitoramento de 
 4. **Servidores e Análise de Dados**: Os dados coletados são enviados para servidores onde são armazenados e analisados. Isso permite a geração de relatórios e insights para otimização do ambiente da estufa.
 
 ## Tecnologias Utilizadas
-- Plataforma IoT (ex: Arduino, Raspberry Pi) 🛠️
-- Protocolos de Comunicação IoT (ex: MQTT) 📡
-- Aplicativo Móvel (ex: iOS, Android) 📱
-- Servidores para análise de dados (ex: AWS, Azure) 🖥️
-- Linguagens de Programação (ex: Python, JavaScript) 💻
+- Plataforma IoT 🛠️
+- Protocolos de Comunicação IoT 📡
+- Aplicativo Móvel (iOS, Android) 📱
+- Servidores para análise de dados 🖥️
 
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, por favor abra uma issue ou envie um pull request.
