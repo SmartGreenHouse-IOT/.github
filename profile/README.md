@@ -1,21 +1,21 @@
-# Smart Green House - MyGreenHouse.com
+# 🌿 Smart Green House - MyGreenHouse.tech 🏡
 
 ## Descrição
 O projeto Smart Green House é uma plataforma de automação e monitoramento de estufas que utiliza dispositivos IoT (Internet das Coisas). O objetivo é tornar as estufas mais inteligentes e automatizadas, permitindo o controle remoto através de um aplicativo móvel e análise de dados em servidores.
 
 ## Recursos Principais
-- Monitoramento e controle da temperatura
-- Monitoramento e controle da umidade
-- Monitoramento e controle do fluxo de água
-- Monitoramento da umidade do solo
-- Controle da iluminação
-- Integração de relés para controle de dispositivos externos
+- Monitoramento e controle da temperatura 🌡️
+- Monitoramento e controle da umidade 💧
+- Monitoramento e controle do fluxo de água 💦
+- Monitoramento da umidade do solo 🌱
+- Controle da iluminação 💡
+- Integração de relés para controle de dispositivos externos 🔌
 
 ## Funcionalidades do Aplicativo Móvel
-- Visualização em tempo real dos dados da estufa
-- Controle remoto dos dispositivos (ex: ajuste da temperatura, umidade)
-- Recebimento de alertas e notificações
-- Análise de dados históricos
+- Visualização em tempo real dos dados da estufa 📊
+- Controle remoto dos dispositivos (ex: ajuste da temperatura, umidade) 📲
+- Recebimento de alertas e notificações ⚠️
+- Análise de dados históricos ⏳
 
 ## Como Funciona
 1. **Sensores IoT**: Sensores são instalados na estufa para coletar dados como temperatura, umidade, umidade do solo, fluxo de água e luminosidade.
@@ -24,14 +24,14 @@ O projeto Smart Green House é uma plataforma de automação e monitoramento de 
 4. **Servidores e Análise de Dados**: Os dados coletados são enviados para servidores onde são armazenados e analisados. Isso permite a geração de relatórios e insights para otimização do ambiente da estufa.
 
 ## Tecnologias Utilizadas
-- Plataforma IoT (ex: Arduino, Raspberry Pi)
-- Protocolos de Comunicação IoT (ex: MQTT)
-- Aplicativo Móvel (ex: iOS, Android)
-- Servidores para análise de dados (ex: AWS, Azure)
-- Linguagens de Programação (ex: Python, JavaScript)
+- Plataforma IoT (ex: Arduino, Raspberry Pi) 🛠️
+- Protocolos de Comunicação IoT (ex: MQTT) 📡
+- Aplicativo Móvel (ex: iOS, Android) 📱
+- Servidores para análise de dados (ex: AWS, Azure) 🖥️
+- Linguagens de Programação (ex: Python, JavaScript) 💻
 
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, por favor abra uma issue ou envie um pull request.
 
 ## Autor
-Este projeto foi desenvolvido por [MyGreenHouse.com](https://www.mygreenhouse.com).
+Este projeto foi desenvolvido por [MyGreenHouse.tech](https://www.mygreenhouse.tech).
